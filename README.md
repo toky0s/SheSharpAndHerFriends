@@ -1,2 +1,2 @@
 # SheSharpAndHerFriends
-Tổng hợp các kinh nghiệm, bài dịch về C# và những người bạn của nó
+She sharp and her friends when they are in travelling in Viet Nam <3.
